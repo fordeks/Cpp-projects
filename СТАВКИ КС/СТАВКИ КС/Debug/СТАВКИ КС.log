@@ -1,0 +1,4 @@
+﻿  Source.cpp
+f:\проекты вижуал студия\ставки кс\ставки кс\source.cpp(7): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  СТАВКИ КС.vcxproj -> F:\ПРОЕКТЫ ВИЖУАЛ СТУДИЯ\СТАВКИ КС\Debug\СТАВКИ КС.exe
+  СТАВКИ КС.vcxproj -> F:\ПРОЕКТЫ ВИЖУАЛ СТУДИЯ\СТАВКИ КС\Debug\СТАВКИ КС.pdb (Full PDB)

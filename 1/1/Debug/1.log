@@ -1,0 +1,4 @@
+﻿  Source.cpp
+f:\проекты вижуал студия\1\1\source.cpp(9): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  1.vcxproj -> F:\ПРОЕКТЫ ВИЖУАЛ СТУДИЯ\1\Debug\1.exe
+  1.vcxproj -> F:\ПРОЕКТЫ ВИЖУАЛ СТУДИЯ\1\Debug\1.pdb (Full PDB)

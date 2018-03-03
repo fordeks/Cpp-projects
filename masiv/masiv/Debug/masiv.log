@@ -1,0 +1,6 @@
+﻿  Source.cpp
+f:\проекты вижуал студия\masiv\masiv\source.cpp(8): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\проекты вижуал студия\masiv\masiv\source.cpp(39): error C2440: '=': cannot convert from 'int [10]' to 'int'
+  f:\проекты вижуал студия\masiv\masiv\source.cpp(39): note: There is no context in which this conversion is possible
+f:\проекты вижуал студия\masiv\masiv\source.cpp(40): error C3863: array type 'int [10]' is not assignable
+f:\проекты вижуал студия\masiv\masiv\source.cpp(41): error C3863: array type 'int [10]' is not assignable

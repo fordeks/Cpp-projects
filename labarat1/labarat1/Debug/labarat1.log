@@ -1,0 +1,4 @@
+﻿  Source.cpp
+f:\проекты вижуал студия\labarat1\labarat1\source.cpp(15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  labarat1.vcxproj -> F:\ПРОЕКТЫ ВИЖУАЛ СТУДИЯ\labarat1\Debug\labarat1.exe
+  labarat1.vcxproj -> F:\ПРОЕКТЫ ВИЖУАЛ СТУДИЯ\labarat1\Debug\labarat1.pdb (Full PDB)
